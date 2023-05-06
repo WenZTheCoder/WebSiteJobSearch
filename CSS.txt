@@ -1,0 +1,59 @@
+body {
+  font-family: Tahoma;
+  margin: 0;
+}
+
+header {
+  background-color: #663399;
+  color: #FFF;
+  padding: 1em;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 1em;
+}
+
+nav a {
+  color: #FFF;
+  text-decoration: none;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  border: 1px solid #663399;
+  margin-bottom: 1em;
+  padding: 1em;
+}
+
+h3 {
+  margin-top: 0;
+}
+
+footer {
+  background-color: #663399;
+  color: #fff;
+  padding: 1em;
+  text-align: center;
+  background-color: #663399
+}

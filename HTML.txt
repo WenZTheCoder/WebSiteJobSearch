@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>JobFinder.html</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <h1>JobFinder.html</h1>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Search Jobs</a></li>
+          <li><a href="#">Post a Job</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <h2>Recent search Jobs</h2>
+      <ul>
+        <li>
+          <h3>Developer</h3>
+          <p>DEVisEasy</p>
+          <p>Los Santos</p>
+          <p>Pays 230 US dollars per hour and it is a really nice job!</p>
+        </li>
+        <li>
+          <h3>Teacher</h3>
+          <p>FindTeachers inc.</p>
+          <p>Romania,Bucharest</p>
+          <p>A really sweat job for people who doesn t make much money from teaching</p>
+        </li>
+        <li>
+          <h3>Software Enginer</h3>
+          <p>ACME inc.</p>
+          <p>Suceava,Romania</p>
+          <p>An easy job for an Software Enginer pays 100 US dollars per hour.</p>
+        </li>
+      </ul>
+    </main>
+    <footer>
+      <p>&copy; JobFinder.html ALL RIGHTS RESERVED</p>
+    </footer>
+  </body>
+</html>
